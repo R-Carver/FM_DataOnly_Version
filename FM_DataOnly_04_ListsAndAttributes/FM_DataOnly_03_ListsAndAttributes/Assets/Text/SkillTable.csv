@@ -1,0 +1,14 @@
+SkillsTabelle,Sprungkraft,Stärke,Schnelligkeit,Antritt,Balance,Körperbeherrschung,Armstärke Wurf,Größe,Gewicht,Spielintelligenz,Leadership,Nervenstärke,Intuition,Mut,Anpassungsfähigkeit,Lernen,Konzentration
+Werfen,1,10,1,1,15,30,70,40,1,25,1,50,85,30,10,1,70
+Spiel lesen,1,1,1,1,1,1,1,1,1,85,1,30,55,1,45,1,45
+Tackling,5,20,30,55,45,60,1,1,1,40,1,25,60,50,1,1,20
+Fangen,60,10,10,15,45,75,1,70,1,20,1,10,30,30,1,1,30
+Ausweichen,10,10,30,60,75,60,1,1,1,5,1,10,65,20,1,1,15
+Kicken,5,10,10,15,50,60,1,1,1,10,1,90,50,10,1,1,75
+Audibles,1,1,1,1,1,1,1,1,1,85,60,50,75,50,1,1,30
+Blocken,10,65,20,35,75,55,1,55,65,25,1,10,25,35,1,1,15
+Routen Laufen,1,1,20,50,60,60,1,1,1,70,1,1,35,1,1,1,30
+Beinarbeit,10,30,15,5,70,70,1,1,1,20,1,1,20,1,1,1,10
+Armduell,1,50,1,1,30,60,1,40,40,30,1,10,20,35,1,1,10
+Ball tragen,1,30,1,1,30,80,1,1,1,20,1,1,20,1,1,1,25
+Release,1,10,20,60,50,50,1,20,1,30,1,1,40,1,1,1,20
